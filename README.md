@@ -13,3 +13,5 @@
 - in Model Training.ipynb
 - note: cannot proceed to add hyperparameter tuning maybe due to my (swara731) own machine.
   
+## Visualize the Data
+- is in Data Visualisation.ipynb
